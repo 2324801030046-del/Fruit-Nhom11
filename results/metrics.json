@@ -1,0 +1,32 @@
+{
+  "accuracy": 0.929347813129425,
+  "loss": 0.20596516132354736,
+  "macro": {
+    "precision": 0.9372765093695328,
+    "recall": 0.937799043062201,
+    "f1-score": 0.9361239849475144
+  },
+  "weighted": {
+    "precision": 0.9287542959686538,
+    "recall": 0.9293478260869565,
+    "f1-score": 0.9274451785545136,
+    "support": 368.0
+  },
+  "tested_classes": [
+    "B\u01b0\u1edfi",
+    "Cam",
+    "Chu\u1ed1i",
+    "D\u01b0a h\u1ea5u",
+    "L\u00ea",
+    "M\u00edt",
+    "Nho",
+    "Qu\u00fdt",
+    "Th\u01a1m",
+    "T\u00e1o",
+    "Xo\u00e0i"
+  ],
+  "classes_without_test_images": [],
+  "test_images": 368,
+  "model_bytes": 6171419,
+  "training_seconds": 91.42
+}

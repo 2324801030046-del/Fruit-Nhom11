@@ -1,0 +1,21 @@
+{
+  "input_size": [
+    224,
+    224
+  ],
+  "colors": "RGB",
+  "resize": "bilinear antialias",
+  "pixel_range": [
+    0,
+    255
+  ],
+  "encoder_input_size": [
+    160,
+    160
+  ],
+  "scale_in_model": 0.00784313725490196,
+  "offset_in_model": -1,
+  "architecture": "MobileNetV2",
+  "classifier_threshold": 0.7,
+  "fruit_presence_threshold": 0.35
+}

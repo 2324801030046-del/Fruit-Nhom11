@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% block title %}Giới thiệu đề tài · Nhóm 11{% endblock %}
+{% block body %}
+<div class="page-title">
+  <h1>Giới thiệu đề tài</h1>
+  <p>Xây dựng mô hình phân loại trái cây bằng CNN và ứng dụng nhận diện qua website.</p>
+</div>
+<div class="about-grid">
+  <section class="panel">
+    <h2>Mục tiêu</h2>
+    <p>Đưa mô hình học máy vào một ứng dụng nhận diện trái cây có thể dùng với ảnh có sẵn hoặc camera trên trình duyệt.</p>
+    <h2>Quy trình nhận diện</h2>
+    <ol>
+      <li>Flask nhận và kiểm tra ảnh JPG, PNG hoặc WebP.</li>
+      <li>Ảnh được đọc dưới dạng RGB, đổi kích thước về 224 × 224 pixel và chuẩn hóa trong mô hình.</li>
+      <li>Mô hình nhị phân MobileNetV2 kiểm tra ảnh có trái cây hay không trước khi phân loại tên quả.</li>
+      <li>CNN trích xuất đặc trưng bằng các lớp tích chập. Lớp Softmax chấm điểm {{ names|length }} nhãn để chọn ba kết quả cao nhất.</li>
+    </ol>
+    <p class="muted">Công nghệ gồm Python, TensorFlow/Keras, Flask, Jinja2 và JavaScript.</p>
+  </section>
+  <section class="panel">
+    <h2>Kết quả đánh giá</h2>
+    {% if metrics %}
+    <div class="metrics">
+      <div><strong>{{ ('%.2f'|format(metrics.accuracy * 100))|replace('.', ',') }}%</strong><span>Độ chính xác</span></div>
+      <div><strong>{{ ('%.2f'|format(metrics.macro['f1-score'] * 100))|replace('.', ',') }}%</strong><span>F1 macro</span></div>
+    </div>
+    <p>{{ metrics.test_images }} ảnh thuộc {{ metrics.tested_classes|length }} nhãn trong tập kiểm tra. F1 macro tính trung bình trên các nhãn có ảnh kiểm tra.</p>
+    {% else %}
+    <p>Chưa có tệp đánh giá đi kèm checkpoint đang dùng.</p>
+    {% endif %}
+    <h2>Hạn chế và hướng phát triển</h2>
+    <p>Ảnh có nền phức tạp, thiếu sáng hoặc góc chụp lạ có thể làm mô hình bỏ sót quả hoặc nhận nhầm đồ vật. Các số liệu trên đánh giá việc phân loại tên quả.</p>
+  </section>
+</div>
+<section class="panel label-panel">
+  <h2>{{ names|length }} nhãn được hỗ trợ</h2>
+  <ul class="classes">{% for name in names %}<li>{{ name }}{% if english.get(name) %} <span>· {{ english[name] }}</span>{% endif %}</li>{% endfor %}</ul>
+</section>
+{% endblock %}

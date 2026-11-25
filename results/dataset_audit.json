@@ -1,0 +1,352 @@
+{
+  "dataset": "dataset/anhtraicay/data",
+  "source_images": 2610,
+  "valid_source_images": 2610,
+  "manifest_images": 2557,
+  "by_split_and_label": {
+    "train": {
+      "Cam": 175,
+      "Chuối": 175,
+      "Dưa hấu": 175,
+      "Lê": 175,
+      "Nho": 175,
+      "Quýt": 172,
+      "Táo": 175,
+      "Thơm": 175,
+      "Xoài": 175,
+      "Bưởi": 91,
+      "Mít": 168
+    },
+    "val": {
+      "Cam": 37,
+      "Chuối": 37,
+      "Dưa hấu": 37,
+      "Lê": 37,
+      "Nho": 37,
+      "Quýt": 37,
+      "Táo": 37,
+      "Thơm": 37,
+      "Xoài": 37,
+      "Bưởi": 20,
+      "Mít": 5
+    },
+    "test": {
+      "Cam": 38,
+      "Chuối": 38,
+      "Dưa hấu": 38,
+      "Lê": 38,
+      "Nho": 38,
+      "Quýt": 37,
+      "Táo": 38,
+      "Thơm": 38,
+      "Xoài": 38,
+      "Bưởi": 20,
+      "Mít": 7
+    }
+  },
+  "formats": {
+    "JPEG": 2593,
+    "WEBP": 10,
+    "PNG": 7
+  },
+  "dimensions": {
+    "500x500": 12,
+    "1920x1440": 2,
+    "600x600": 10,
+    "568x414": 3,
+    "2994x2000": 2,
+    "700x500": 3,
+    "640x479": 2,
+    "540x540": 2,
+    "413x300": 3,
+    "399x600": 2,
+    "768x1024": 6,
+    "2048x1151": 3,
+    "1200x800": 2,
+    "450x600": 2,
+    "300x225": 3,
+    "640x400": 4,
+    "3648x4842": 2,
+    "640x640": 4,
+    "900x1200": 4,
+    "800x800": 2,
+    "710x460": 2,
+    "413x355": 2,
+    "300x300": 2,
+    "751x751": 2,
+    "540x537": 1,
+    "760x760": 2,
+    "689x689": 1,
+    "1536x2048": 4,
+    "262x324": 1,
+    "480x480": 4,
+    "500x526": 1,
+    "2048x1365": 1,
+    "720x960": 5,
+    "688x500": 1,
+    "640x500": 1,
+    "700x650": 1,
+    "1600x1200": 3,
+    "1080x1080": 3,
+    "640x480": 1,
+    "811x811": 1,
+    "813x690": 1,
+    "800x450": 3,
+    "670x487": 1,
+    "820x546": 1,
+    "360x360": 1,
+    "500x345": 1,
+    "640x449": 3,
+    "1024x1024": 5,
+    "1440x2560": 2,
+    "2560x1920": 1,
+    "1920x2560": 1,
+    "1420x1200": 1,
+    "960x575": 1,
+    "700x508": 1,
+    "549x350": 2,
+    "600x450": 2,
+    "200x147": 1,
+    "450x337": 1,
+    "500x375": 3,
+    "1024x683": 1,
+    "500x400": 1,
+    "400x400": 1,
+    "240x179": 1,
+    "450x338": 1,
+    "3456x5184": 1,
+    "450x300": 1,
+    "620x620": 1,
+    "750x423": 1,
+    "600x900": 1,
+    "600x315": 2,
+    "250x250": 1,
+    "700x438": 2,
+    "680x425": 1,
+    "1200x1200": 1,
+    "720x720": 2,
+    "730x464": 1,
+    "1280x720": 4,
+    "561x618": 1,
+    "1132x720": 1,
+    "150x150": 1,
+    "710x947": 1,
+    "357x263": 1,
+    "1282x722": 1,
+    "825x464": 1,
+    "338x600": 1,
+    "1024x768": 1,
+    "400x395": 1,
+    "750x1000": 1,
+    "1200x600": 1,
+    "350x263": 1,
+    "686x386": 1,
+    "260x194": 1,
+    "1200x630": 1,
+    "1024x640": 1,
+    "750x500": 1,
+    "720x540": 1,
+    "4608x3456": 1435,
+    "3456x4608": 584,
+    "760x442": 1,
+    "800x532": 2,
+    "768x768": 1,
+    "575x383": 1,
+    "500x496": 1,
+    "550x550": 1,
+    "1920x1080": 1,
+    "700x367": 1,
+    "415x276": 1,
+    "320x180": 1,
+    "292x261": 162,
+    "4160x3120": 90,
+    "3120x4160": 141
+  },
+  "identical_file_groups": [
+    [
+      "buoi/Buoi001.jpg",
+      "buoi/Buoi755.jpg"
+    ],
+    [
+      "buoi/Buoi006.jpg",
+      "buoi/Buoi760.jpg",
+      "buoi/Buoi97.jpg"
+    ],
+    [
+      "buoi/Buoi007.jpg",
+      "buoi/Buoi761.jpg"
+    ],
+    [
+      "buoi/Buoi008.jpg",
+      "buoi/Buoi762.jpg"
+    ],
+    [
+      "buoi/Buoi009.jpg",
+      "buoi/Buoi763.jpg"
+    ],
+    [
+      "buoi/Buoi01.jpg",
+      "buoi/Buoi03.jpg",
+      "buoi/Buoi201.jpg"
+    ],
+    [
+      "buoi/Buoi010.jpg",
+      "buoi/Buoi764.jpg"
+    ],
+    [
+      "buoi/Buoi012.jpg",
+      "buoi/Buoi766.jpg"
+    ],
+    [
+      "buoi/Buoi016.jpg",
+      "buoi/Buoi770.jpg"
+    ],
+    [
+      "buoi/Buoi017.jpg",
+      "buoi/Buoi771.jpg"
+    ],
+    [
+      "buoi/Buoi02.jpg",
+      "buoi/Buoi101.jpg"
+    ],
+    [
+      "buoi/Buoi020.jpg",
+      "buoi/Buoi774.jpg"
+    ],
+    [
+      "buoi/Buoi021.jpg",
+      "buoi/Buoi775.jpg"
+    ],
+    [
+      "buoi/Buoi023.jpg",
+      "buoi/Buoi777.jpg"
+    ],
+    [
+      "buoi/Buoi024.jpg",
+      "buoi/Buoi778.jpg"
+    ],
+    [
+      "buoi/Buoi027.jpg",
+      "buoi/Buoi781.jpg"
+    ],
+    [
+      "buoi/Buoi039.jpg",
+      "buoi/Buoi793.jpg"
+    ],
+    [
+      "buoi/Buoi040.jpg",
+      "buoi/Buoi794.jpg"
+    ],
+    [
+      "buoi/Buoi045.jpg",
+      "buoi/Buoi799.jpg"
+    ],
+    [
+      "buoi/Buoi05.jpg",
+      "buoi/Buoi19.jpg",
+      "buoi/Buoi216.jpg"
+    ],
+    [
+      "buoi/Buoi053.jpg",
+      "buoi/Buoi807.jpg"
+    ],
+    [
+      "buoi/Buoi055.jpg",
+      "buoi/Buoi809.jpg"
+    ],
+    [
+      "buoi/Buoi06.jpg",
+      "buoi/Buoi109.jpg",
+      "buoi/Buoi71.jpg"
+    ],
+    [
+      "buoi/Buoi074.jpg",
+      "buoi/Buoi828.jpg"
+    ],
+    [
+      "buoi/Buoi076.jpg",
+      "buoi/Buoi830.jpg"
+    ],
+    [
+      "buoi/Buoi082.jpg",
+      "buoi/Buoi836.jpg"
+    ],
+    [
+      "buoi/Buoi09.jpg",
+      "buoi/Buoi205.jpg"
+    ],
+    [
+      "buoi/Buoi10.jpg",
+      "buoi/Buoi113.jpg"
+    ],
+    [
+      "buoi/Buoi102.jpg",
+      "buoi/Buoi11.jpg",
+      "buoi/Buoi18.jpg"
+    ],
+    [
+      "buoi/Buoi111.jpg",
+      "buoi/Buoi15.jpg",
+      "buoi/Buoi90.jpg"
+    ],
+    [
+      "buoi/Buoi12.jpg",
+      "buoi/Buoi215.jpg",
+      "buoi/Buoi29.jpg"
+    ],
+    [
+      "buoi/Buoi135.jpg",
+      "buoi/Buoi43.jpg"
+    ],
+    [
+      "buoi/Buoi14.jpg",
+      "buoi/Buoi208.jpg"
+    ],
+    [
+      "buoi/Buoi16.jpg",
+      "buoi/Buoi221.jpg",
+      "buoi/Buoi25.jpg"
+    ],
+    [
+      "buoi/Buoi212.jpg",
+      "buoi/Buoi28.jpg",
+      "buoi/Buoi49.jpg"
+    ],
+    [
+      "buoi/Buoi219.jpg",
+      "buoi/Buoi22.jpg"
+    ],
+    [
+      "buoi/Buoi240.jpg",
+      "buoi/Buoi41.jpg"
+    ],
+    [
+      "buoi/Buoi27.jpg",
+      "buoi/Buoi330.jpg",
+      "buoi/Buoi56.jpg"
+    ],
+    [
+      "buoi/Buoi302.jpg",
+      "buoi/Buoi36.jpg"
+    ],
+    [
+      "quyt/quyt_0.jpg",
+      "quyt/quyt_111.jpg"
+    ],
+    [
+      "quyt/quyt_157.jpg",
+      "quyt/quyt_158.jpg"
+    ],
+    [
+      "quyt/quyt_166.jpg",
+      "quyt/quyt_168.jpg"
+    ],
+    [
+      "quyt/quyt_173.jpg",
+      "quyt/quyt_184.jpg"
+    ]
+  ],
+  "duplicates_removed": 53,
+  "unlisted_images": 53,
+  "unreadable": []
+}

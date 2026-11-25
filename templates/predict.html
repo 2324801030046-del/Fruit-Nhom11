@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+{% block body_class %}dashboard{% endblock %}
+{% block body %}
+<div class="workspace">
+  <header class="project-title">
+    <h1><span>NHÓM 11</span> PHÂN LOẠI TRÁI CÂY CNN</h1>
+    <p>Nhận diện trái cây từ ảnh hoặc camera trực tiếp.</p>
+  </header>
+
+  <div class="input-modes" role="group" aria-label="Nguồn ảnh">
+    <button class="mode" id="upload-mode" type="button" aria-pressed="true" aria-controls="drop-zone">
+      <span class="mode-icon upload-icon" aria-hidden="true"></span>Tải ảnh lên
+    </button>
+    <button class="mode" id="camera-mode" type="button" aria-pressed="false" aria-controls="camera-controls">
+      <span class="mode-icon camera-icon" aria-hidden="true"></span>Dùng camera
+    </button>
+  </div>
+
+  <form class="panel recognition-panel" id="recognize-form" action="{{ url_for('predict') }}" method="post" enctype="multipart/form-data">
+    <div id="drop-zone" class="drop-zone">
+      <span class="upload-symbol" aria-hidden="true"><span class="mode-icon upload-icon"></span></span>
+      <div class="upload-copy">
+        <p>Kéo và thả ảnh vào đây</p>
+        <small id="file-hint">JPG, PNG hoặc WebP · Tối đa 5 MB</small>
+      </div>
+      <label class="button picker" id="choose-label" for="photo">Chọn ảnh</label>
+      <input class="visually-hidden" id="photo" name="photo" type="file" accept=".jpg,.jpeg,.png,.webp" aria-describedby="file-hint" data-max-bytes="{{ max_bytes }}">
+    </div>
+    <div id="camera-controls" class="camera-controls" hidden>
+      <p class="camera-hint">Hướng camera vào trái cây hoặc ảnh trái cây.</p>
+      <div class="camera-actions">
+        <button id="camera" type="button" class="secondary">Mở camera</button>
+        <button id="capture" type="button" class="secondary" hidden disabled>Chụp ảnh</button>
+        <button id="retake" type="button" class="secondary" hidden>Chụp lại</button>
+      </div>
+      <div id="camera-panel" class="camera-frame" hidden>
+        <video id="video" autoplay muted playsinline aria-label="Hình ảnh trực tiếp từ camera"></video>
+        <p id="camera-prediction" class="camera-prediction"></p>
+      </div>
+    </div>
+    <div id="preview-panel" class="preview-panel" hidden>
+      <img id="preview" alt="Ảnh đã chọn">
+      <p id="filename"></p>
+    </div>
+    <div class="recognition-actions">
+      <button id="submit" type="submit" disabled>Phân loại ảnh</button>
+      <button id="remove" type="button" class="secondary" disabled>Xóa ảnh</button>
+    </div>
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+  </form>
+
+  <section id="result" class="panel results" aria-labelledby="result-title" hidden>
+    <h2 id="result-title">Kết quả phân loại</h2>
+    <div id="result-content">
+      <img id="result-photo" alt="Ảnh đã nhận diện">
+      <div>
+        <h3 id="result-heading" tabindex="-1"></h3>
+        <div id="fruit-details">
+          <p id="confidence"></p>
+          <h4>Ba dự đoán cao nhất</h4>
+          <ol id="ranking"></ol>
+          <p class="note">Ảnh ngoài các loại quả đã học vẫn có thể nhận điểm cao.</p>
+        </div>
+        <button id="reset" type="button" class="secondary">Nhận diện ảnh khác</button>
+      </div>
+    </div>
+  </section>
+</div>
+{% endblock %}
+{% block footer %}
+<footer class="project-footer">
+  <div class="shell">
+    <a href="{{ url_for('about') }}"><strong>{{ names|length }} loại trái cây được hỗ trợ</strong></a>
+    <p>{{ names|join(' · ') }}</p>
+  </div>
+</footer>
+{% endblock %}
+{% block script %}<script src="{{ url_for('static', filename='js/predict.js') }}" defer></script>{% endblock %}

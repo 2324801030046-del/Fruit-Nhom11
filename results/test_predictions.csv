@@ -1,0 +1,369 @@
+﻿path,actual,predicted,confidence
+dataset/anhtraicay/data/cam/cam_212.jpg,Cam,Cam,0.99981195
+dataset/anhtraicay/data/cam/cam_213.jpg,Cam,Cam,0.9999474
+dataset/anhtraicay/data/cam/cam_214.jpg,Cam,Cam,0.99965715
+dataset/anhtraicay/data/cam/cam_215.jpg,Cam,Cam,0.99968314
+dataset/anhtraicay/data/cam/cam_216.jpg,Cam,Cam,0.99933004
+dataset/anhtraicay/data/cam/cam_217.jpg,Cam,Cam,0.9997161
+dataset/anhtraicay/data/cam/cam_218.jpg,Cam,Cam,0.99985886
+dataset/anhtraicay/data/cam/cam_219.jpg,Cam,Cam,0.99998045
+dataset/anhtraicay/data/cam/cam_220.jpg,Cam,Cam,0.9995801
+dataset/anhtraicay/data/cam/cam_221.jpg,Cam,Cam,0.99957484
+dataset/anhtraicay/data/cam/cam_222.jpg,Cam,Cam,0.9991917
+dataset/anhtraicay/data/cam/cam_223.jpg,Cam,Cam,0.99975985
+dataset/anhtraicay/data/cam/cam_224.jpg,Cam,Cam,0.9985611
+dataset/anhtraicay/data/cam/cam_225.jpg,Cam,Cam,0.99958557
+dataset/anhtraicay/data/cam/cam_226.jpg,Cam,Cam,0.998939
+dataset/anhtraicay/data/cam/cam_227.jpg,Cam,Cam,0.9968882
+dataset/anhtraicay/data/cam/cam_228.jpg,Cam,Cam,0.9999031
+dataset/anhtraicay/data/cam/cam_229.jpg,Cam,Cam,0.99902964
+dataset/anhtraicay/data/cam/cam_230.jpg,Cam,Cam,0.999741
+dataset/anhtraicay/data/cam/cam_231.jpg,Cam,Cam,0.99969697
+dataset/anhtraicay/data/cam/cam_232.jpg,Cam,Cam,0.9999515
+dataset/anhtraicay/data/cam/cam_233.jpg,Cam,Cam,0.99993086
+dataset/anhtraicay/data/cam/cam_234.jpg,Cam,Cam,0.9997745
+dataset/anhtraicay/data/cam/cam_235.jpg,Cam,Cam,0.9999006
+dataset/anhtraicay/data/cam/cam_236.jpg,Cam,Cam,0.9999597
+dataset/anhtraicay/data/cam/cam_237.jpg,Cam,Cam,0.99977165
+dataset/anhtraicay/data/cam/cam_238.jpg,Cam,Cam,0.9999913
+dataset/anhtraicay/data/cam/cam_239.jpg,Cam,Cam,0.9998093
+dataset/anhtraicay/data/cam/cam_240.jpg,Cam,Cam,0.99997747
+dataset/anhtraicay/data/cam/cam_241.jpg,Cam,Cam,0.99997497
+dataset/anhtraicay/data/cam/cam_242.jpg,Cam,Cam,0.99997115
+dataset/anhtraicay/data/cam/cam_243.jpg,Cam,Cam,0.9999882
+dataset/anhtraicay/data/cam/cam_244.jpg,Cam,Cam,0.9999783
+dataset/anhtraicay/data/cam/cam_245.jpg,Cam,Cam,0.9999826
+dataset/anhtraicay/data/cam/cam_246.jpg,Cam,Cam,0.99980205
+dataset/anhtraicay/data/cam/cam_247.jpg,Cam,Cam,0.9984931
+dataset/anhtraicay/data/cam/cam_248.jpg,Cam,Cam,0.999944
+dataset/anhtraicay/data/cam/cam_249.jpg,Cam,Cam,0.9978569
+dataset/anhtraicay/data/chuoi/chuoi_212.jpg,Chuối,Chuối,0.9999918
+dataset/anhtraicay/data/chuoi/chuoi_213.jpg,Chuối,Chuối,0.9999908
+dataset/anhtraicay/data/chuoi/chuoi_214.jpg,Chuối,Chuối,0.9998437
+dataset/anhtraicay/data/chuoi/chuoi_215.jpg,Chuối,Chuối,0.999982
+dataset/anhtraicay/data/chuoi/chuoi_216.jpg,Chuối,Chuối,0.9999572
+dataset/anhtraicay/data/chuoi/chuoi_217.jpg,Chuối,Chuối,0.9999161
+dataset/anhtraicay/data/chuoi/chuoi_218.jpg,Chuối,Chuối,0.9999323
+dataset/anhtraicay/data/chuoi/chuoi_219.jpg,Chuối,Chuối,0.9999949
+dataset/anhtraicay/data/chuoi/chuoi_220.jpg,Chuối,Chuối,0.99999654
+dataset/anhtraicay/data/chuoi/chuoi_221.jpg,Chuối,Chuối,0.99999034
+dataset/anhtraicay/data/chuoi/chuoi_222.jpg,Chuối,Chuối,0.9999906
+dataset/anhtraicay/data/chuoi/chuoi_223.jpg,Chuối,Chuối,0.99999905
+dataset/anhtraicay/data/chuoi/chuoi_224.jpg,Chuối,Chuối,0.9999938
+dataset/anhtraicay/data/chuoi/chuoi_225.jpg,Chuối,Chuối,0.9999982
+dataset/anhtraicay/data/chuoi/chuoi_226.jpg,Chuối,Chuối,0.9999839
+dataset/anhtraicay/data/chuoi/chuoi_227.jpg,Chuối,Chuối,0.9999794
+dataset/anhtraicay/data/chuoi/chuoi_228.jpg,Chuối,Chuối,0.99994767
+dataset/anhtraicay/data/chuoi/chuoi_229.jpg,Chuối,Chuối,0.9997906
+dataset/anhtraicay/data/chuoi/chuoi_230.jpg,Chuối,Chuối,0.99999523
+dataset/anhtraicay/data/chuoi/chuoi_231.jpg,Chuối,Chuối,0.99999154
+dataset/anhtraicay/data/chuoi/chuoi_232.jpg,Chuối,Chuối,0.9999908
+dataset/anhtraicay/data/chuoi/chuoi_233.jpg,Chuối,Chuối,0.99998116
+dataset/anhtraicay/data/chuoi/chuoi_234.jpg,Chuối,Chuối,0.9999906
+dataset/anhtraicay/data/chuoi/chuoi_235.jpg,Chuối,Chuối,0.99996233
+dataset/anhtraicay/data/chuoi/chuoi_236.jpg,Chuối,Chuối,0.99998105
+dataset/anhtraicay/data/chuoi/chuoi_237.jpg,Chuối,Chuối,0.9999949
+dataset/anhtraicay/data/chuoi/chuoi_238.jpg,Chuối,Chuối,0.999997
+dataset/anhtraicay/data/chuoi/chuoi_239.jpg,Chuối,Chuối,0.99991214
+dataset/anhtraicay/data/chuoi/chuoi_240.jpg,Chuối,Chuối,0.99998665
+dataset/anhtraicay/data/chuoi/chuoi_241.jpg,Chuối,Chuối,0.99993074
+dataset/anhtraicay/data/chuoi/chuoi_242.jpg,Chuối,Chuối,0.9999993
+dataset/anhtraicay/data/chuoi/chuoi_243.jpg,Chuối,Chuối,0.99999475
+dataset/anhtraicay/data/chuoi/chuoi_244.jpg,Chuối,Chuối,0.9999968
+dataset/anhtraicay/data/chuoi/chuoi_245.jpg,Chuối,Chuối,0.99999976
+dataset/anhtraicay/data/chuoi/chuoi_246.jpg,Chuối,Chuối,0.9999263
+dataset/anhtraicay/data/chuoi/chuoi_247.jpg,Chuối,Chuối,0.9999324
+dataset/anhtraicay/data/chuoi/chuoi_248.jpg,Chuối,Chuối,0.99997807
+dataset/anhtraicay/data/chuoi/chuoi_249.jpg,Chuối,Chuối,0.9999653
+dataset/anhtraicay/data/duahau/duahau_212.jpg,Dưa hấu,Dưa hấu,0.9998301
+dataset/anhtraicay/data/duahau/duahau_213.jpg,Dưa hấu,Dưa hấu,0.99983215
+dataset/anhtraicay/data/duahau/duahau_214.jpg,Dưa hấu,Dưa hấu,0.99991095
+dataset/anhtraicay/data/duahau/duahau_215.jpg,Dưa hấu,Dưa hấu,0.99979943
+dataset/anhtraicay/data/duahau/duahau_216.jpg,Dưa hấu,Dưa hấu,0.99972254
+dataset/anhtraicay/data/duahau/duahau_217.jpg,Dưa hấu,Dưa hấu,0.999944
+dataset/anhtraicay/data/duahau/duahau_218.jpg,Dưa hấu,Dưa hấu,0.99997497
+dataset/anhtraicay/data/duahau/duahau_219.jpg,Dưa hấu,Dưa hấu,0.999966
+dataset/anhtraicay/data/duahau/duahau_220.jpg,Dưa hấu,Dưa hấu,0.9999088
+dataset/anhtraicay/data/duahau/duahau_221.jpg,Dưa hấu,Dưa hấu,0.9993814
+dataset/anhtraicay/data/duahau/duahau_222.jpg,Dưa hấu,Dưa hấu,0.99982077
+dataset/anhtraicay/data/duahau/duahau_223.jpg,Dưa hấu,Dưa hấu,0.9999912
+dataset/anhtraicay/data/duahau/duahau_224.jpg,Dưa hấu,Dưa hấu,0.9999919
+dataset/anhtraicay/data/duahau/duahau_225.jpg,Dưa hấu,Dưa hấu,0.9999845
+dataset/anhtraicay/data/duahau/duahau_226.jpg,Dưa hấu,Dưa hấu,0.9999715
+dataset/anhtraicay/data/duahau/duahau_227.jpg,Dưa hấu,Dưa hấu,0.99995923
+dataset/anhtraicay/data/duahau/duahau_228.jpg,Dưa hấu,Dưa hấu,0.9999963
+dataset/anhtraicay/data/duahau/duahau_229.jpg,Dưa hấu,Dưa hấu,0.9999819
+dataset/anhtraicay/data/duahau/duahau_230.jpg,Dưa hấu,Dưa hấu,0.9999858
+dataset/anhtraicay/data/duahau/duahau_231.jpg,Dưa hấu,Dưa hấu,0.999997
+dataset/anhtraicay/data/duahau/duahau_232.jpg,Dưa hấu,Dưa hấu,0.99995315
+dataset/anhtraicay/data/duahau/duahau_233.jpg,Dưa hấu,Dưa hấu,0.99998796
+dataset/anhtraicay/data/duahau/duahau_234.jpg,Dưa hấu,Dưa hấu,0.99994934
+dataset/anhtraicay/data/duahau/duahau_235.jpg,Dưa hấu,Dưa hấu,0.9999758
+dataset/anhtraicay/data/duahau/duahau_236.jpg,Dưa hấu,Dưa hấu,0.999969
+dataset/anhtraicay/data/duahau/duahau_237.jpg,Dưa hấu,Dưa hấu,0.9999521
+dataset/anhtraicay/data/duahau/duahau_238.jpg,Dưa hấu,Dưa hấu,0.9999615
+dataset/anhtraicay/data/duahau/duahau_239.jpg,Dưa hấu,Dưa hấu,0.99994123
+dataset/anhtraicay/data/duahau/duahau_240.jpg,Dưa hấu,Dưa hấu,0.99997056
+dataset/anhtraicay/data/duahau/duahau_241.jpg,Dưa hấu,Dưa hấu,0.99997604
+dataset/anhtraicay/data/duahau/duahau_242.jpg,Dưa hấu,Dưa hấu,0.99979514
+dataset/anhtraicay/data/duahau/duahau_243.jpg,Dưa hấu,Dưa hấu,0.9999404
+dataset/anhtraicay/data/duahau/duahau_244.jpg,Dưa hấu,Dưa hấu,0.99994445
+dataset/anhtraicay/data/duahau/duahau_245.jpg,Dưa hấu,Dưa hấu,0.9999354
+dataset/anhtraicay/data/duahau/duahau_246.jpg,Dưa hấu,Dưa hấu,0.99995255
+dataset/anhtraicay/data/duahau/duahau_247.jpg,Dưa hấu,Dưa hấu,0.9999578
+dataset/anhtraicay/data/duahau/duahau_248.jpg,Dưa hấu,Dưa hấu,0.9999753
+dataset/anhtraicay/data/duahau/duahau_249.jpg,Dưa hấu,Dưa hấu,0.9999794
+dataset/anhtraicay/data/le/le_212.jpg,Lê,Xoài,0.5803792
+dataset/anhtraicay/data/le/le_213.jpg,Lê,Lê,0.99987435
+dataset/anhtraicay/data/le/le_214.jpg,Lê,Lê,0.9810605
+dataset/anhtraicay/data/le/le_215.jpg,Lê,Xoài,0.69795597
+dataset/anhtraicay/data/le/le_216.jpg,Lê,Lê,0.99950194
+dataset/anhtraicay/data/le/le_217.jpg,Lê,Lê,0.99998546
+dataset/anhtraicay/data/le/le_218.jpg,Lê,Lê,0.995845
+dataset/anhtraicay/data/le/le_219.jpg,Lê,Lê,0.9532391
+dataset/anhtraicay/data/le/le_220.jpg,Lê,Lê,0.9995541
+dataset/anhtraicay/data/le/le_221.jpg,Lê,Lê,0.998346
+dataset/anhtraicay/data/le/le_222.jpg,Lê,Lê,0.99863464
+dataset/anhtraicay/data/le/le_223.jpg,Lê,Xoài,0.5478396
+dataset/anhtraicay/data/le/le_224.jpg,Lê,Xoài,0.7042863
+dataset/anhtraicay/data/le/le_225.jpg,Lê,Lê,0.5045409
+dataset/anhtraicay/data/le/le_226.jpg,Lê,Xoài,0.59123707
+dataset/anhtraicay/data/le/le_227.jpg,Lê,Lê,0.9997577
+dataset/anhtraicay/data/le/le_228.jpg,Lê,Lê,0.9888287
+dataset/anhtraicay/data/le/le_229.jpg,Lê,Lê,0.999814
+dataset/anhtraicay/data/le/le_230.jpg,Lê,Lê,0.9720748
+dataset/anhtraicay/data/le/le_231.jpg,Lê,Lê,0.9990734
+dataset/anhtraicay/data/le/le_232.jpg,Lê,Lê,0.99951303
+dataset/anhtraicay/data/le/le_233.jpg,Lê,Lê,0.8810494
+dataset/anhtraicay/data/le/le_234.jpg,Lê,Lê,0.9860444
+dataset/anhtraicay/data/le/le_235.jpg,Lê,Lê,0.99923086
+dataset/anhtraicay/data/le/le_236.jpg,Lê,Lê,0.9995913
+dataset/anhtraicay/data/le/le_237.jpg,Lê,Lê,0.9921476
+dataset/anhtraicay/data/le/le_238.jpg,Lê,Lê,0.9978733
+dataset/anhtraicay/data/le/le_239.jpg,Lê,Lê,0.9999962
+dataset/anhtraicay/data/le/le_240.jpg,Lê,Lê,0.97033644
+dataset/anhtraicay/data/le/le_241.jpg,Lê,Lê,0.9998894
+dataset/anhtraicay/data/le/le_242.jpg,Lê,Lê,0.999777
+dataset/anhtraicay/data/le/le_243.jpg,Lê,Lê,0.9913629
+dataset/anhtraicay/data/le/le_244.jpg,Lê,Lê,0.9967956
+dataset/anhtraicay/data/le/le_245.jpg,Lê,Lê,0.9971468
+dataset/anhtraicay/data/le/le_246.jpg,Lê,Lê,0.9971288
+dataset/anhtraicay/data/le/le_247.jpg,Lê,Lê,0.99996984
+dataset/anhtraicay/data/le/le_248.jpg,Lê,Lê,0.99896526
+dataset/anhtraicay/data/le/le_249.jpg,Lê,Lê,0.99761343
+dataset/anhtraicay/data/nho/nho_212.jpg,Nho,Nho,0.999985
+dataset/anhtraicay/data/nho/nho_213.jpg,Nho,Nho,0.9999083
+dataset/anhtraicay/data/nho/nho_214.jpg,Nho,Nho,0.99999535
+dataset/anhtraicay/data/nho/nho_215.jpg,Nho,Nho,0.99999475
+dataset/anhtraicay/data/nho/nho_216.jpg,Nho,Nho,0.99998116
+dataset/anhtraicay/data/nho/nho_217.jpg,Nho,Nho,0.9999957
+dataset/anhtraicay/data/nho/nho_218.jpg,Nho,Nho,0.99999416
+dataset/anhtraicay/data/nho/nho_219.jpg,Nho,Nho,0.99989736
+dataset/anhtraicay/data/nho/nho_220.jpg,Nho,Nho,0.99999714
+dataset/anhtraicay/data/nho/nho_221.jpg,Nho,Nho,0.9999975
+dataset/anhtraicay/data/nho/nho_222.jpg,Nho,Nho,0.9999939
+dataset/anhtraicay/data/nho/nho_223.jpg,Nho,Nho,0.99978024
+dataset/anhtraicay/data/nho/nho_224.jpg,Nho,Nho,0.9999217
+dataset/anhtraicay/data/nho/nho_225.jpg,Nho,Nho,0.9999926
+dataset/anhtraicay/data/nho/nho_226.jpg,Nho,Nho,0.99993277
+dataset/anhtraicay/data/nho/nho_227.jpg,Nho,Nho,0.9995889
+dataset/anhtraicay/data/nho/nho_228.jpg,Nho,Nho,0.9999937
+dataset/anhtraicay/data/nho/nho_229.jpg,Nho,Nho,0.99986386
+dataset/anhtraicay/data/nho/nho_230.jpg,Nho,Nho,0.9999709
+dataset/anhtraicay/data/nho/nho_231.jpg,Nho,Nho,0.99999046
+dataset/anhtraicay/data/nho/nho_232.jpg,Nho,Nho,0.99998844
+dataset/anhtraicay/data/nho/nho_233.jpg,Nho,Nho,0.9999913
+dataset/anhtraicay/data/nho/nho_234.jpg,Nho,Nho,0.99998593
+dataset/anhtraicay/data/nho/nho_235.jpg,Nho,Nho,0.99998486
+dataset/anhtraicay/data/nho/nho_236.jpg,Nho,Nho,0.99998164
+dataset/anhtraicay/data/nho/nho_237.jpg,Nho,Nho,0.99996614
+dataset/anhtraicay/data/nho/nho_238.jpg,Nho,Nho,0.9999956
+dataset/anhtraicay/data/nho/nho_239.jpg,Nho,Nho,0.99998546
+dataset/anhtraicay/data/nho/nho_240.jpg,Nho,Nho,0.99999726
+dataset/anhtraicay/data/nho/nho_241.jpg,Nho,Nho,0.99999166
+dataset/anhtraicay/data/nho/nho_242.jpg,Nho,Nho,0.9999691
+dataset/anhtraicay/data/nho/nho_243.jpg,Nho,Nho,0.9999932
+dataset/anhtraicay/data/nho/nho_244.jpg,Nho,Nho,0.9999747
+dataset/anhtraicay/data/nho/nho_245.jpg,Nho,Nho,0.99992394
+dataset/anhtraicay/data/nho/nho_246.jpg,Nho,Nho,0.99998665
+dataset/anhtraicay/data/nho/nho_247.jpg,Nho,Nho,0.9998155
+dataset/anhtraicay/data/nho/nho_248.jpg,Nho,Nho,0.9998758
+dataset/anhtraicay/data/nho/nho_249.jpg,Nho,Nho,0.9999403
+dataset/anhtraicay/data/quyt/quyt_213.jpg,Quýt,Quýt,0.99999475
+dataset/anhtraicay/data/quyt/quyt_214.jpg,Quýt,Quýt,0.99999774
+dataset/anhtraicay/data/quyt/quyt_215.jpg,Quýt,Quýt,0.9999975
+dataset/anhtraicay/data/quyt/quyt_216.jpg,Quýt,Quýt,0.99968636
+dataset/anhtraicay/data/quyt/quyt_217.jpg,Quýt,Quýt,0.99750715
+dataset/anhtraicay/data/quyt/quyt_218.jpg,Quýt,Quýt,0.999907
+dataset/anhtraicay/data/quyt/quyt_219.jpg,Quýt,Quýt,0.9997801
+dataset/anhtraicay/data/quyt/quyt_220.jpg,Quýt,Quýt,0.99980956
+dataset/anhtraicay/data/quyt/quyt_221.jpg,Quýt,Quýt,0.99991715
+dataset/anhtraicay/data/quyt/quyt_222.jpg,Quýt,Quýt,0.9997644
+dataset/anhtraicay/data/quyt/quyt_223.jpg,Quýt,Quýt,0.999089
+dataset/anhtraicay/data/quyt/quyt_224.jpg,Quýt,Quýt,0.9998728
+dataset/anhtraicay/data/quyt/quyt_225.jpg,Quýt,Quýt,0.9999858
+dataset/anhtraicay/data/quyt/quyt_226.jpg,Quýt,Quýt,0.99998415
+dataset/anhtraicay/data/quyt/quyt_227.jpg,Quýt,Quýt,0.99998164
+dataset/anhtraicay/data/quyt/quyt_228.jpg,Quýt,Quýt,0.998288
+dataset/anhtraicay/data/quyt/quyt_229.jpg,Quýt,Quýt,0.9999051
+dataset/anhtraicay/data/quyt/quyt_230.jpg,Quýt,Quýt,0.99985063
+dataset/anhtraicay/data/quyt/quyt_231.jpg,Quýt,Quýt,0.99995136
+dataset/anhtraicay/data/quyt/quyt_232.jpg,Quýt,Quýt,0.9999553
+dataset/anhtraicay/data/quyt/quyt_233.jpg,Quýt,Quýt,0.9997961
+dataset/anhtraicay/data/quyt/quyt_234.jpg,Quýt,Quýt,0.99985874
+dataset/anhtraicay/data/quyt/quyt_235.jpg,Quýt,Quýt,0.99935526
+dataset/anhtraicay/data/quyt/quyt_236.jpg,Quýt,Quýt,0.99884015
+dataset/anhtraicay/data/quyt/quyt_237.jpg,Quýt,Quýt,0.9984451
+dataset/anhtraicay/data/quyt/quyt_238.jpg,Quýt,Quýt,0.9999579
+dataset/anhtraicay/data/quyt/quyt_239.jpg,Quýt,Quýt,0.9979691
+dataset/anhtraicay/data/quyt/quyt_240.jpg,Quýt,Quýt,0.9999254
+dataset/anhtraicay/data/quyt/quyt_241.jpg,Quýt,Quýt,0.9998791
+dataset/anhtraicay/data/quyt/quyt_242.jpg,Quýt,Quýt,0.9998568
+dataset/anhtraicay/data/quyt/quyt_243.jpg,Quýt,Quýt,0.9997521
+dataset/anhtraicay/data/quyt/quyt_244.jpg,Quýt,Quýt,0.9999901
+dataset/anhtraicay/data/quyt/quyt_245.jpg,Quýt,Quýt,0.99702555
+dataset/anhtraicay/data/quyt/quyt_246.jpg,Quýt,Quýt,0.99997187
+dataset/anhtraicay/data/quyt/quyt_247.jpg,Quýt,Quýt,0.9994711
+dataset/anhtraicay/data/quyt/quyt_248.jpg,Quýt,Quýt,0.99966586
+dataset/anhtraicay/data/quyt/quyt_249.jpg,Quýt,Quýt,0.9995871
+dataset/anhtraicay/data/tao/tao_212.jpg,Táo,Táo,0.9212553
+dataset/anhtraicay/data/tao/tao_213.jpg,Táo,Táo,0.9413346
+dataset/anhtraicay/data/tao/tao_214.jpg,Táo,Táo,0.985999
+dataset/anhtraicay/data/tao/tao_215.jpg,Táo,Táo,0.82520086
+dataset/anhtraicay/data/tao/tao_216.jpg,Táo,Táo,0.8886872
+dataset/anhtraicay/data/tao/tao_217.jpg,Táo,Táo,0.9999707
+dataset/anhtraicay/data/tao/tao_218.jpg,Táo,Táo,0.99117106
+dataset/anhtraicay/data/tao/tao_219.jpg,Táo,Táo,0.97831225
+dataset/anhtraicay/data/tao/tao_220.jpg,Táo,Táo,0.95429325
+dataset/anhtraicay/data/tao/tao_221.jpg,Táo,Táo,0.6102139
+dataset/anhtraicay/data/tao/tao_222.jpg,Táo,Táo,0.99380153
+dataset/anhtraicay/data/tao/tao_223.jpg,Táo,Táo,0.874519
+dataset/anhtraicay/data/tao/tao_224.jpg,Táo,Táo,0.9903211
+dataset/anhtraicay/data/tao/tao_225.jpg,Táo,Lê,0.9560672
+dataset/anhtraicay/data/tao/tao_226.jpg,Táo,Táo,0.80654323
+dataset/anhtraicay/data/tao/tao_227.jpg,Táo,Táo,0.957988
+dataset/anhtraicay/data/tao/tao_228.jpg,Táo,Táo,0.9999671
+dataset/anhtraicay/data/tao/tao_229.jpg,Táo,Táo,0.9859929
+dataset/anhtraicay/data/tao/tao_230.jpg,Táo,Lê,0.55797833
+dataset/anhtraicay/data/tao/tao_231.jpg,Táo,Lê,0.3856567
+dataset/anhtraicay/data/tao/tao_232.jpg,Táo,Táo,0.8523319
+dataset/anhtraicay/data/tao/tao_233.jpg,Táo,Táo,0.46592888
+dataset/anhtraicay/data/tao/tao_234.jpg,Táo,Dưa hấu,0.57275605
+dataset/anhtraicay/data/tao/tao_235.jpg,Táo,Dưa hấu,0.7043485
+dataset/anhtraicay/data/tao/tao_236.jpg,Táo,Lê,0.6893117
+dataset/anhtraicay/data/tao/tao_237.jpg,Táo,Táo,0.9384853
+dataset/anhtraicay/data/tao/tao_238.jpg,Táo,Dưa hấu,0.36012805
+dataset/anhtraicay/data/tao/tao_239.jpg,Táo,Táo,0.999997
+dataset/anhtraicay/data/tao/tao_240.jpg,Táo,Táo,0.8033925
+dataset/anhtraicay/data/tao/tao_241.jpg,Táo,Lê,0.29694057
+dataset/anhtraicay/data/tao/tao_242.jpg,Táo,Xoài,0.4929072
+dataset/anhtraicay/data/tao/tao_243.jpg,Táo,Lê,0.4999117
+dataset/anhtraicay/data/tao/tao_244.jpg,Táo,Dưa hấu,0.60941404
+dataset/anhtraicay/data/tao/tao_245.jpg,Táo,Lê,0.6935971
+dataset/anhtraicay/data/tao/tao_246.jpg,Táo,Lê,0.6781653
+dataset/anhtraicay/data/tao/tao_247.jpg,Táo,Lê,0.8672179
+dataset/anhtraicay/data/tao/tao_248.jpg,Táo,Táo,0.99906105
+dataset/anhtraicay/data/tao/tao_249.jpg,Táo,Táo,0.999637
+dataset/anhtraicay/data/thom/thom_212.jpg,Thơm,Thơm,0.9998654
+dataset/anhtraicay/data/thom/thom_213.jpg,Thơm,Thơm,0.9992149
+dataset/anhtraicay/data/thom/thom_214.jpg,Thơm,Thơm,0.9995173
+dataset/anhtraicay/data/thom/thom_215.jpg,Thơm,Thơm,0.99952984
+dataset/anhtraicay/data/thom/thom_216.jpg,Thơm,Thơm,0.999647
+dataset/anhtraicay/data/thom/thom_217.jpg,Thơm,Thơm,0.9997769
+dataset/anhtraicay/data/thom/thom_218.jpg,Thơm,Thơm,0.999199
+dataset/anhtraicay/data/thom/thom_219.jpg,Thơm,Thơm,0.9997824
+dataset/anhtraicay/data/thom/thom_220.jpg,Thơm,Thơm,0.998307
+dataset/anhtraicay/data/thom/thom_221.jpg,Thơm,Thơm,0.99871004
+dataset/anhtraicay/data/thom/thom_222.jpg,Thơm,Thơm,0.99989116
+dataset/anhtraicay/data/thom/thom_223.jpg,Thơm,Thơm,0.99994886
+dataset/anhtraicay/data/thom/thom_224.jpg,Thơm,Thơm,0.99990237
+dataset/anhtraicay/data/thom/thom_225.jpg,Thơm,Thơm,0.99996233
+dataset/anhtraicay/data/thom/thom_226.jpg,Thơm,Thơm,0.99984777
+dataset/anhtraicay/data/thom/thom_227.jpg,Thơm,Thơm,0.99970406
+dataset/anhtraicay/data/thom/thom_228.jpg,Thơm,Thơm,0.99859506
+dataset/anhtraicay/data/thom/thom_229.jpg,Thơm,Thơm,0.9998216
+dataset/anhtraicay/data/thom/thom_230.jpg,Thơm,Thơm,0.9994041
+dataset/anhtraicay/data/thom/thom_231.jpg,Thơm,Thơm,0.99782985
+dataset/anhtraicay/data/thom/thom_232.jpg,Thơm,Thơm,0.99852777
+dataset/anhtraicay/data/thom/thom_233.jpg,Thơm,Thơm,0.99918
+dataset/anhtraicay/data/thom/thom_234.jpg,Thơm,Thơm,0.99997365
+dataset/anhtraicay/data/thom/thom_235.jpg,Thơm,Thơm,0.99997294
+dataset/anhtraicay/data/thom/thom_236.jpg,Thơm,Thơm,0.9998915
+dataset/anhtraicay/data/thom/thom_237.jpg,Thơm,Thơm,0.9999962
+dataset/anhtraicay/data/thom/thom_238.jpg,Thơm,Thơm,0.99999595
+dataset/anhtraicay/data/thom/thom_239.jpg,Thơm,Thơm,0.9996138
+dataset/anhtraicay/data/thom/thom_240.jpg,Thơm,Thơm,0.99776375
+dataset/anhtraicay/data/thom/thom_241.jpg,Thơm,Thơm,0.9992938
+dataset/anhtraicay/data/thom/thom_242.jpg,Thơm,Thơm,0.99984074
+dataset/anhtraicay/data/thom/thom_243.jpg,Thơm,Thơm,0.99943894
+dataset/anhtraicay/data/thom/thom_244.jpg,Thơm,Thơm,0.99955565
+dataset/anhtraicay/data/thom/thom_245.jpg,Thơm,Thơm,0.9995951
+dataset/anhtraicay/data/thom/thom_246.jpg,Thơm,Thơm,0.99997544
+dataset/anhtraicay/data/thom/thom_247.jpg,Thơm,Thơm,0.99989605
+dataset/anhtraicay/data/thom/thom_248.jpg,Thơm,Thơm,0.99994576
+dataset/anhtraicay/data/thom/thom_249.jpg,Thơm,Thơm,0.99996865
+dataset/anhtraicay/data/xoai/xoai_212.jpg,Xoài,Xoài,0.9750304
+dataset/anhtraicay/data/xoai/xoai_213.jpg,Xoài,Xoài,0.48124087
+dataset/anhtraicay/data/xoai/xoai_214.jpg,Xoài,Xoài,0.8150154
+dataset/anhtraicay/data/xoai/xoai_215.jpg,Xoài,Táo,0.5232308
+dataset/anhtraicay/data/xoai/xoai_216.jpg,Xoài,Táo,0.84869856
+dataset/anhtraicay/data/xoai/xoai_217.jpg,Xoài,Xoài,0.9908841
+dataset/anhtraicay/data/xoai/xoai_218.jpg,Xoài,Táo,0.8028494
+dataset/anhtraicay/data/xoai/xoai_219.jpg,Xoài,Xoài,0.6113135
+dataset/anhtraicay/data/xoai/xoai_220.jpg,Xoài,Táo,0.87712795
+dataset/anhtraicay/data/xoai/xoai_221.jpg,Xoài,Táo,0.9959357
+dataset/anhtraicay/data/xoai/xoai_222.jpg,Xoài,Táo,0.99984276
+dataset/anhtraicay/data/xoai/xoai_223.jpg,Xoài,Xoài,0.4983978
+dataset/anhtraicay/data/xoai/xoai_224.jpg,Xoài,Xoài,0.80015916
+dataset/anhtraicay/data/xoai/xoai_225.jpg,Xoài,Xoài,0.96369064
+dataset/anhtraicay/data/xoai/xoai_226.jpg,Xoài,Xoài,0.92276585
+dataset/anhtraicay/data/xoai/xoai_227.jpg,Xoài,Xoài,0.8723077
+dataset/anhtraicay/data/xoai/xoai_228.jpg,Xoài,Xoài,0.9970606
+dataset/anhtraicay/data/xoai/xoai_229.jpg,Xoài,Xoài,0.9155955
+dataset/anhtraicay/data/xoai/xoai_230.jpg,Xoài,Lê,0.791003
+dataset/anhtraicay/data/xoai/xoai_231.jpg,Xoài,Xoài,0.9994611
+dataset/anhtraicay/data/xoai/xoai_232.jpg,Xoài,Xoài,0.99953496
+dataset/anhtraicay/data/xoai/xoai_233.jpg,Xoài,Xoài,0.99941015
+dataset/anhtraicay/data/xoai/xoai_234.jpg,Xoài,Xoài,0.9999361
+dataset/anhtraicay/data/xoai/xoai_235.jpg,Xoài,Xoài,0.99995625
+dataset/anhtraicay/data/xoai/xoai_236.jpg,Xoài,Xoài,0.999097
+dataset/anhtraicay/data/xoai/xoai_237.jpg,Xoài,Xoài,0.9998586
+dataset/anhtraicay/data/xoai/xoai_238.jpg,Xoài,Xoài,0.99974793
+dataset/anhtraicay/data/xoai/xoai_239.jpg,Xoài,Xoài,0.99932146
+dataset/anhtraicay/data/xoai/xoai_240.jpg,Xoài,Xoài,0.9999839
+dataset/anhtraicay/data/xoai/xoai_241.jpg,Xoài,Xoài,0.9982305
+dataset/anhtraicay/data/xoai/xoai_242.jpg,Xoài,Xoài,0.99966645
+dataset/anhtraicay/data/xoai/xoai_243.jpg,Xoài,Xoài,0.99999607
+dataset/anhtraicay/data/xoai/xoai_244.jpg,Xoài,Xoài,0.9999869
+dataset/anhtraicay/data/xoai/xoai_245.jpg,Xoài,Xoài,0.9998104
+dataset/anhtraicay/data/xoai/xoai_246.jpg,Xoài,Xoài,0.9946155
+dataset/anhtraicay/data/xoai/xoai_247.jpg,Xoài,Xoài,0.9998803
+dataset/anhtraicay/data/xoai/xoai_248.jpg,Xoài,Xoài,0.99997926
+dataset/anhtraicay/data/xoai/xoai_249.jpg,Xoài,Xoài,0.9998934
+dataset/anhtraicay/data/buoi/Buoi001.jpg,Bưởi,Bưởi,0.9998994
+dataset/anhtraicay/data/buoi/Buoi02.jpg,Bưởi,Bưởi,0.9998678
+dataset/anhtraicay/data/buoi/Buoi007.jpg,Bưởi,Bưởi,0.9999627
+dataset/anhtraicay/data/buoi/Buoi027.jpg,Bưởi,Bưởi,0.99564385
+dataset/anhtraicay/data/buoi/Buoi41.jpg,Bưởi,Bưởi,0.8045059
+dataset/anhtraicay/data/buoi/Buoi43.jpg,Bưởi,Bưởi,0.99996424
+dataset/anhtraicay/data/buoi/Buoi045.jpg,Bưởi,Bưởi,0.99994314
+dataset/anhtraicay/data/buoi/Buoi053.jpg,Bưởi,Bưởi,0.999121
+dataset/anhtraicay/data/buoi/Buoi96.jpg,Bưởi,Bưởi,0.99999845
+dataset/anhtraicay/data/buoi/Buoi99.jpg,Bưởi,Bưởi,0.99995744
+dataset/anhtraicay/data/buoi/Buoi100.jpg,Bưởi,Bưởi,0.9999825
+dataset/anhtraicay/data/buoi/Buoi200.jpg,Bưởi,Bưởi,0.9999987
+dataset/anhtraicay/data/buoi/Buoi211.jpg,Bưởi,Bưởi,0.9941829
+dataset/anhtraicay/data/buoi/Buoi250.jpg,Bưởi,Bưởi,0.999879
+dataset/anhtraicay/data/buoi/Buoi278.jpg,Bưởi,Bưởi,0.99996424
+dataset/anhtraicay/data/buoi/Buoi292.jpg,Bưởi,Bưởi,0.9998925
+dataset/anhtraicay/data/buoi/Buoi318.jpg,Bưởi,Bưởi,0.99586475
+dataset/anhtraicay/data/buoi/Buoi338.jpg,Bưởi,Bưởi,0.99999356
+dataset/anhtraicay/data/buoi/Buoi339.jpg,Bưởi,Bưởi,0.99997103
+dataset/anhtraicay/data/buoi/Buoi808.jpg,Bưởi,Bưởi,0.5831255
+dataset/anhtraicay/data/mit/Mit114.jpg,Mít,Mít,0.9998166
+dataset/anhtraicay/data/mit/Mit119.jpg,Mít,Mít,0.87405545
+dataset/anhtraicay/data/mit/Mit122.jpg,Mít,Mít,0.9528499
+dataset/anhtraicay/data/mit/Mit144.jpg,Mít,Mít,0.9265953
+dataset/anhtraicay/data/mit/Mit0232.jpg,Mít,Mít,0.99568766
+dataset/anhtraicay/data/mit/Mit0236.jpg,Mít,Mít,0.99948514
+dataset/anhtraicay/data/mit/Mit0324.jpg,Mít,Mít,0.6297108

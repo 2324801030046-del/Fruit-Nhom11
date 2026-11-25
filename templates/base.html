@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Nhận diện trái cây từ ảnh hoặc camera với mô hình CNN.">
+  <title>{% block title %}Nhóm 11 · Phân loại trái cây CNN{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/site.css') }}">
+</head>
+<body class="{% block body_class %}{% endblock %}">
+  <header class="header"><div class="shell nav">
+    <a class="brand" href="{{ url_for('home') }}"><span class="brand-icon" aria-hidden="true"></span> Nhóm 11</a>
+    {% if session.get('logged_in') %}
+    <nav aria-label="Điều hướng chính">
+      {% for endpoint, label in [('recognize', 'Nhận diện'), ('about', 'Giới thiệu')] %}
+      <a href="{{ url_for(endpoint) }}"{% if request.endpoint == endpoint or (request.endpoint == 'home' and endpoint == 'recognize') %} aria-current="page"{% endif %}>{{ label }}</a>
+      {% endfor %}
+      <form class="logout-form" action="{{ url_for('logout') }}" method="post">
+        <button class="logout-button" type="submit">Đăng xuất</button>
+      </form>
+    </nav>
+    {% endif %}
+  </div></header>
+  <main class="shell">{% block body %}{% endblock %}</main>
+  {% block footer %}{% endblock %}
+  {% block script %}{% endblock %}
+</body>
+</html>
