@@ -4,7 +4,6 @@ from os import environ
 ROOT = Path(__file__).resolve().parent
 DATASET = ROOT / "dataset" / "anhtraicay" / "data"
 RESULTS = ROOT / "results"
-LEGACY_RESULTS = RESULTS / "legacy_root"
 MODELS = ROOT / "models"
 IMAGE_SIZE = (224, 224)
 WEB_MODEL_DIR = Path(environ.get("FRUIT_MODEL_DIR", MODELS))
